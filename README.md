@@ -1,1 +1,1 @@
-# Student Vid Nikolic RN78/21
+# OtterWebShop Vue Frontend
